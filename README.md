@@ -7,7 +7,7 @@
 <ul>
   <li>Javascript</li>
   <li>Paper.js</li>
-  <li>How.js</li>
+  <li>Howl.js</li>
   <li>HTML 5</li>
   <li>CSS 3</li>
 </ul>
